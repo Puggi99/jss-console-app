@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Jing",
+        "surname":"Wang",
+        "yob":1993,
+        "gender": "female"
+    },
+
+    {
+        "name": "Simone",
+        "surname":"Maccarone",
+        "yob":2003,
+        "gender": "male"
+    },
+
+    {
+        "name": "Pietro",
+        "surname":"Viglino",
+        "yob":1988,
+        "gender": "male"
+    },
+
+    {
+        "name": "Valentina",
+        "surname":"Cherubini",
+        "yob":2001,
+        "gender": "female"
+    }
+]
